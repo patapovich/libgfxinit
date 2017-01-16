@@ -12,6 +12,8 @@
 -- GNU General Public License for more details.
 --
 
+--Ehkä muutoksia
+
 with HW.GFX.GMA.Config;
 with HW.GFX.GMA.Panel;
 with HW.GFX.GMA.DP_Info;
