@@ -12,6 +12,8 @@
 -- GNU General Public License for more details.
 --
 
+--Muutettava?  (A => PIPE_DDI_FUNC_CTL_EDP_SELECT_ALWAYS_ON, -- we never use panel fitter
+
 with HW.Debug;
 with GNAT.Source_Info;
 
