@@ -12,6 +12,8 @@
 -- GNU General Public License for more details.
 --
 
+--Muutettava: Port_Select := PCH_PP_ON_DELAYS_PORT_SELECT_DP_A;
+
 with HW.GFX.GMA.Config;
 
 with HW.Debug;
