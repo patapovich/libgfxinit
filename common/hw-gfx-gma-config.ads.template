@@ -12,6 +12,9 @@
 -- GNU General Public License for more details.
 --
 
+--Muutokset ei välttämättömiä. Varmistettava.
+
+
 private package HW.GFX.GMA.Config
 with
    Initializes => Valid_Port_GPU
