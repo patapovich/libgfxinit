@@ -12,6 +12,8 @@
 -- GNU General Public License for more details.
 --
 
+--Muutettava:  when Internal  => DP_A,
+
 with HW.GFX.I2C;
 with HW.GFX.EDID;
 with HW.GFX.GMA.Config;
