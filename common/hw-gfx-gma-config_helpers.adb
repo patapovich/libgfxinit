@@ -12,6 +12,8 @@
 -- GNU General Public License for more details.
 --
 
+--Muutettava: (if Config.Internal_Is_EDP and then Port = Internal then
+
 with HW.GFX.GMA.Config;
 with HW.GFX.GMA.Connector_Info;
 with HW.GFX.GMA.DP_Info;
